@@ -3,7 +3,6 @@
 	- C++
 	- Python
 	- Ada
-	- Fortan
 	- ELisp
 - ⭐️ I'm currently learning:
 	- Rust
@@ -12,3 +11,4 @@
 	- Haskell
 - ☄️  Reach me on:
 	- Email: akisa@disroot.org
+
