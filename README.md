@@ -1,14 +1,1 @@
-- 🕸 I currently know
-	- C
-	- C++
-	- Python
-	- Ada
-	- ELisp
-- ⭐️ I'm currently learning:
-	- Rust
-	- Go
-	- Common Lisp
-	- Haskell
-- ☄️  Reach me on:
-	- Email: akisa@disroot.org
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akisarazbu)](https://github.com/anuraghazra/github-readme-stats)
